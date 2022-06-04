@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning PHP
-- 💬 Ask me about HTML, CSS, JavaScript, Ruby, and Ruby on Rails
+- 🌱 I’m currently learning Python
+- 💬 Ask me about HTML, CSS, SASS, JavaScript, Ruby, PHP, and Ruby on Rails
 - 📫 How to reach me: www.linkedin.com/in/yogaisan
 - ⚡ Fun fact: Coding will soon be as important as reading
 
